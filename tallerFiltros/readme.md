@@ -1,3 +1,5 @@
+# Integrantes: Jefferson Gutierrez y Juan Joya
+
 # Taller de Filtros - Procesamiento de Imágenes en C++
 
 ## Descripción
