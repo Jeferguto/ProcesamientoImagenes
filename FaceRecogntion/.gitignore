@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+/build/
+/app/build/
+
+# Local configuration (SDK paths, signing)
+local.properties
+*.jks
+*.keystore
+
+# Android module files
+*.iml
+*.ap_
+*.apk
+*.aar
+
+# IntelliJ / Android Studio — workspace state (personal, not shared)
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/androidTestResultsUserPreferences.xml
+
+# External native build artifacts
+.externalNativeBuild/
+.cxx/
+
+# OpenCV Android SDK — precompiled binaries (~1.6 GB, not tracked in git)
+opencv/native/libs/
+opencv/native/staticlibs/
+
+# Native compiled objects
+*.so
+*.a
+*.o
+
+# Profiler captures
+/captures/
+
+# macOS metadata
+.DS_Store
